@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+0 blinkled.js
+0 input.js
+5 some variation
+5 ReadMe.txt
+5 Not late
+
+Grade:  15/25
+
+========================================
+
 From : A.Sanjeeva Raidu
 Roll No: B12029
 Practical Name : Fading of LED's (Lab 02)
